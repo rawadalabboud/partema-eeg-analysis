@@ -1,0 +1,24 @@
+# === Core scientific stack ===
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# === EEG processing ===
+mne
+mne-bids
+
+# === Audio processing (voice features) ===
+librosa
+soundfile
+pyAudioAnalysis
+opensmile==2.4.1
+
+# === BIDS + file utilities ===
+bids-validator
+pybids
+
+# === Jupyter / Dev Tools ===
+jupyterlab
+ipykernel
